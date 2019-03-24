@@ -15,6 +15,8 @@ The MarkerViews also have a constant height. It'd be nice if the views varied th
 
 It'd also be nice if I could get them to look nicer. Right now, they have a slight drop shadow and a thin black outline. Maybe it'd be nicer if I got the outline color to match the color of the graph's line, or maybe it'd be nicer if I could just use only drop shadows? I'm not really sure, but I also don't think it's terribly important yet; it shouldn't be too tough to change.
 
+For the future, maybe a setting that adds the grid back in would be nice? I'll keep that in mind for the future.
+
 ## Anything Blocking?
 
 I still haven't really touched the More Resources tab yet. I've planning on letting Nick do his thing there, but he hasn't shown up to small group meetings recently, so I'm wondering if I should get something started there. 
